@@ -1,4 +1,4 @@
-## 👋 Hi there!  
+### 👋 Hi there!  
 
 I am **Puja Saha**, a **M.A.Sc. student in Computer Engineering** (CGPA: 3.93/4.00) at the **University of Guelph**, with a **Bachelor’s degree in Biomedical Engineering** (CGPA: 3.68/4.00). My research interests lie in **model architecture adaptation**, **decentralized machine learning**, **optimization**, and **multimodal AI** for healthcare applications.  
 
