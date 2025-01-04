@@ -18,7 +18,7 @@ I am actively seeking **internship opportunities** where I can apply my knowledg
 ---
 
 ### 🤔 I’m looking for help with:  
-- Scaling and optimizing **Flower Framework** for large-scale federated learning setups  
+- Scaling large-scale federated learning projects in **Flower Framework**
 
 ---
 
