@@ -45,6 +45,7 @@ I am actively seeking **internship opportunities** where I can apply my knowledg
 ### 📫 How to reach me:  
 
 - **Email**: psaha03@uoguelph.ca  
-- **LinkedIn**: [Puja Saha on LinkedIn](https://www.linkedin.com/in/puja-saha-9a274a15b/)  
-- **GitHub**: [GitHub Profile](https://github.com/puja-urmi)  
-- **Google Scholar**: [Puja Saha on Google Scholar](https://scholar.google.com/citations?user=74kQrh0AAAAJ&hl=en)  
+- **LinkedIn**: [Puja Saha](https://www.linkedin.com/in/puja-saha-9a274a15b/)
+- **Website**: [Puja Saha](https://puja-urmi.github.io)
+- **GitHub**: [Puja Saha](https://github.com/puja-urmi)  
+- **Google Scholar**: [Puja Saha](https://scholar.google.com/citations?user=74kQrh0AAAAJ&hl=en)  
