@@ -4,7 +4,7 @@ I am **Puja Saha**, a **M.A.Sc. student in Computer Engineering** (CGPA: 3.93/4.
 
 Currently, I am doing research on **privacy-preserving medical image analysis** in decentralized setups. My work focuses on developing robust and generalizable methodologies to address data disparities, ensuring both robustness and data privacy in medical AI applications.  
 
-I am actively seeking **internship opportunities** where I can apply my knowledge to real-world challenges and contribute to advancing machine learning methodologies for impactful applications and grow. 
+I am actively seeking **PhD/internship opportunities** where I can apply my knowledge to contribute to advancing machine learning methodologies for impactful applications and grow. 
 
 ---
 
