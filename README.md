@@ -15,12 +15,6 @@ I am actively seeking **PhD/internship opportunities** where I can apply my know
 - **Technologies**: Federated Learning, Cloud Computing (AWS, Compute Canada), Git  
 - **Operating Systems**: Linux, macOS, Windows  
 
----
-
-### 🤔 I’m looking for help with:  
-- Scaling large-scale federated learning projects in **Flower Framework**
-
----
 
 ### 🌟 Key Projects 
 
