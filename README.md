@@ -1,6 +1,6 @@
 ### 👋 Hi there!  
 
-I am **Puja Saha**, a **M.A.Sc. student in Computer Engineering** (CGPA: 3.93/4.00) at the **University of Guelph**, with a **Bachelor’s degree in Biomedical Engineering** (CGPA: 3.68/4.00). My research interests lie in **model architecture adaptation**, **decentralized machine learning**, **optimization**, and **multimodal AI** for diverse applications.  Currently, I am doing research on **decentralized AI for medical image analysis** 
+I am **Puja Saha**, **M.A.Sc. candidate in Computer Engineering** (CGPA: 3.93/4.00) at the **University of Guelph**, with a **Bachelor’s degree in Biomedical Engineering** (CGPA: 3.68/4.00). My research interests lie in **model architecture adaptation**, **decentralized machine learning**, **optimization**, and **multimodal AI** for diverse applications.  Currently, I am doing research on **decentralized AI for medical image analysis** 
 
 I am actively seeking **PhD/internship opportunities** where I can apply my knowledge to contribute to advancing machine learning methodologies for impactful applications and grow. 
 
@@ -34,7 +34,7 @@ I am actively seeking **PhD/internship opportunities** where I can apply my know
 
 ---
 
-### 📫 How to reach me:  
+### 📫 Reach Out
  
 - **LinkedIn**: [Puja Saha](https://www.linkedin.com/in/puja-saha-9a274a15b/)
 - **Website**: [Puja Saha](https://puja-urmi.github.io)
