@@ -1,8 +1,10 @@
 ### 👋 Hi there!  
 
-I am **Puja Saha**, **M.A.Sc. candidate in Computer Engineering** (CGPA: 3.93/4.00) at the **University of Guelph**, with a **Bachelor’s degree in Biomedical Engineering** (CGPA: 3.68/4.00). My research interests lie in **decentralized machine learning**, **optimization**, and **multimodal AI** for diverse applications.  Currently, I am doing research on **decentralized AI for medical image analysis** 
+I’m **Puja Saha**, a Medical Data Scientist at **mlHealth360**, working on multimodal generative AI for medical imaging to support real-world clinical workflows.
 
-I am actively seeking **PhD/internship opportunities** where I can apply my knowledge to contribute to advancing machine learning methodologies for impactful applications and grow. 
+I hold an M.A.Sc. in **Computer Engineering** from the University of Guelph and a B.Sc. in **Biomedical Engineering**. My graduate research focused on **optimizing the privacy–utility trade-off in differentially private federated learning for multi-institutional medical image segmentation**.
+
+My interests include decentralized learning, optimization,  multimodal and generative AI, Data security & privacy for healthcare.
 
 ---
 
