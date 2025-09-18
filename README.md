@@ -1,6 +1,6 @@
 ### 👋 Hi there!  
 
-I’m **Puja Saha**, a Medical Data Scientist at **mlHealth360**, working on multimodal generative AI for medical imaging to support real-world clinical workflows.
+I’m **Puja Saha**, a Data Scientist at **mlHealth360**, working on multimodal generative AI for medical imaging to support real-world clinical workflows.
 
 I hold an M.A.Sc. in **Computer Engineering** from the University of Guelph and a B.Sc. in **Biomedical Engineering**. My graduate research focused on **optimizing the privacy–utility trade-off in differentially private federated learning for multi-institutional medical image segmentation**.
 
